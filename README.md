@@ -8,7 +8,10 @@ This repository contains Gurobi codes for MILP described in the ICCL 2023 submis
 1. Install gurobipy and obtain a license for gurobi [https://support.gurobi.com/hc/en-us/articles/12872889819921-How-do-I-use-conda-to-install-Gurobi-in-Anaconda-]
 1. Build and Run the solution
 
-##Files
+## Files
+1. The file https://github.com/LucasGana/ICCL/blob/main/ELSPR_LSC_DETERMINISTIC.py contain the MIP.
+1. https://github.com/LucasGana/ICCL/blob/main/InstanceGenerationsICCL_LP%20(1).py here is generated both the branch-and-cut algorithm and the instance for the linear relaxation problem.
+1. https://github.com/LucasGana/ICCL/blob/main/InstanceGenerationsICCL_BAC%20(1).py here is generated both the branch-and-cut algorithm and the instance for the problem.   
 
 
 
